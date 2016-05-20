@@ -1,0 +1,2 @@
+# Genetic-Polynomial-Regression
+A small exploration into the field of genetic programming. Using least squares sum to determine fitness, this program initially generates a population of random order and random coefficient polynomials and breeds them with a variable breeding and mutation algorithm to obtain the smallest least square sum or fittest polynomial after multiple generations of genocide. 
